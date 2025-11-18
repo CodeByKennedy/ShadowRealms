@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# Build artifacts
+*.o
+ShadowRealms
+
+# Editor folders
+.vscode/
+.idea/
+

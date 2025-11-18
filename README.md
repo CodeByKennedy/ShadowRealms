@@ -11,3 +11,18 @@ ShadowRealms is a terminal-based dungeon crawler built in C++. Choose a hero, ba
 
 ## Project Structure
 
+```
+ShadowRealms/
+  ├── src/                 # Implementation files (.cpp)
+  │   ├── main.cpp
+  │   ├── Character.cpp
+  │   ├── Monster.cpp
+  │   └── DungeonManager.cpp
+  ├── include/             # Header files (.h)
+  │   ├── Character.h
+  │   ├── Monster.h
+  │   └── DungeonManager.h
+  ├── Makefile             # Build automation
+  ├── .gitignore           # Ignored build/system files
+  └── README.md
+```

@@ -10,7 +10,6 @@ ShadowRealms is a terminal-based dungeon crawler built in C++. Choose a hero, ba
 - Checkpoint/campfire system for healing and progression choices
 
 ## Project Structure
-
 ```
 ShadowRealms/
   ├── src/                 # Implementation files (.cpp)
